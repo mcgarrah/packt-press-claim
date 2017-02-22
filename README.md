@@ -13,6 +13,8 @@ The script requires at minimum the python packages:
 pip install requests beautifulsoup4
 ```
 
+It is confirmed to run on both Python 2.7 and 3.4 from my local testing on Ubuntu 12.04, 14.04 and 16.04. I see no reason it will not run on Windows, Mac or other Linux variants.
+
 ## Configure
 
 Edit 31 and 32 lines, and enter your credentials for your packtpub account.
